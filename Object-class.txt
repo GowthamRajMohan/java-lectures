@@ -1,0 +1,2 @@
+Student - name, roll no, DOB, Dept // characters/features -> variables
+Student - studying, playing, listening // activities/actions -> methods
